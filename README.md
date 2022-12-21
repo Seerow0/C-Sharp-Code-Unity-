@@ -1,2 +1,3 @@
 # Unity-C-code
-Just a bunch of code I've  used before
+C# Code I have written for Unity 3d Projects.
+-Consists mainly of object interaction, Menu UI, Animations, Vr Display, Ect.
